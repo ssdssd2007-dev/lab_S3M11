@@ -1,1 +1,1 @@
-include <iostream>\nint main() {std::cout << Hello world << std::endl;return 0;}
+// комментарий от test4
